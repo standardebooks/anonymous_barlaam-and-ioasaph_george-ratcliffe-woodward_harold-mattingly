@@ -42,7 +42,7 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Spirituality</meta>
-		<dc:abstract>A monk converts a cloistered young prince to Christianity.</dc:abstract>
+		<meta property="schema:abstract">A monk converts a cloistered young prince to Christianity.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Barlaam and Ioasaph&lt;/i&gt;, a hagiographic novel, was one of the most popular literary works in medieval Europe. It depicts the life of a cloistered young prince named Ioasaph (more often spelled “Josaphat” in other sources), who is converted to Christianity by the monk Barlaam, before he undergoes several trials that test his newfound faith. Although &lt;i&gt;Barlaam and Ioasaph&lt;/i&gt; teaches Christian doctrine and quotes extensively from the Bible and later Christian sources, its plot can be traced back to the story of the Buddha. The name “Ioasaph” is even derived from the Sanskrit word &lt;i&gt;bodhisattva&lt;/i&gt;, referring to beings in Mahayana Buddhist cosmology who delay personal liberation from the cycle of reincarnation in order to save others. Ioasaph’s depiction retains traces of the Buddha’s story. For example, both Ioasaph and the Buddha are sealed up in their palaces by their fathers before they venture into the world to encounter sickness, age, and death.&lt;/p&gt;
 			&lt;p&gt;Unaware that &lt;i&gt;Barlaam and Ioasaph&lt;/i&gt; was fictional, much less derived from another religious tradition, medieval Europeans treated them as historical persons and canonized them in both the Eastern and Western churches. Barlaam and Ioasaph are still recognized as saints in the Catholic and Eastern Orthodox religious calendars.&lt;/p&gt;
