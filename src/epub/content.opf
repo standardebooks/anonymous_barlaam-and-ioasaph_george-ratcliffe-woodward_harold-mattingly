@@ -31,9 +31,9 @@
 		<dc:title id="title">Barlaam and Ioasaph</dc:title>
 		<meta property="file-as" refines="#title">Barlaam and Ioasaph</meta>
 		<meta property="dcterms:alternative" refines="#title">Barlaam and Josaphat</meta>
-		<dc:subject id="subject-1">Gautama Buddha -- Legends -- Adaptations</dc:subject>
-		<dc:subject id="subject-2">Christian saints -- India -- Romances</dc:subject>
-		<dc:subject id="subject-3">Princes -- India -- Romances</dc:subject>
+		<dc:subject id="subject-1">Gautama Buddha--Legends--Adaptations</dc:subject>
+		<dc:subject id="subject-2">Christian saints--India--Romances</dc:subject>
+		<dc:subject id="subject-3">Princes--India--Romances</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
